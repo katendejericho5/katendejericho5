@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m Jericho Katende, a driven and collaborative Computer Science graduate passionate about leveraging technology to solve complex problems. I have a strong foundation in software development, network optimization, and ethical AI exploration. With a keen interest in health-related tech solutions, I strive to make a positive impact through my work.<br><br>🌍 Based in Kampala, Uganda<br>🎓 Graduate of Makerere University (Computer Science)<br>💻 Open to collaborations and freelance opportunities<br>🌱 Currently learning Django and expanding my backend skills<br>
+I’m Jericho Katende, a driven and collaborative Computer Science graduate passionate about leveraging technology to solve complex problems. I have a strong foundation in software development, network optimization, and ethical AI exploration. With a keen interest in health-related tech solutions, I strive to make a positive impact through my work .<br><br>🌍 Based in Kampala, Uganda<br>🎓 Graduate of Makerere University (Computer Science)<br>💻 Open to collaborations and freelance opportunities<br>🌱 Currently learning Django and expanding my backend skills<br>
 
 
 ## 🌐 Socials:
