@@ -1,6 +1,5 @@
 # 💫 About Me:
-I’m Jericho Katende,a driven and collaborative Computer Science graduate passionate about leveraging technology to solve complex problems. I have a strong foundation in Backend development,Data Science . I strive to make a positive impact through my work .<br><br>🌍 Based in Kampala, Uganda<br>🎓 Graduate of Makerere University (Computer Science)<br>🌱 Currently learning Django and expanding my backend skills<br>
-
+I’m Jericho Katende,a driven and collaborative Computer Science graduate passionate about leveraging technology to solve complex problems. I have a strong foundation in Backend development,Data Science . I strive to make a positive impact through my work .<br><br>🌍 Based in Kampala, Uganda<br>🎓 Graduate of Makerere University (Computer Science)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jericho-katende-programmer) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@katendejericho5) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/KatendeJericho) 
